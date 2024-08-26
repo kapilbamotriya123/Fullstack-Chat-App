@@ -17,4 +17,5 @@ Managing database storage for messages
 Optimizing performance for a smooth experience
 
 
-# Check out the live app: https://fullstack-chat-app-x7f2.onrender.com/
+Check out the live app: 
+## https://fullstack-chat-app-x7f2.onrender.com/
