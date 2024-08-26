@@ -6,7 +6,7 @@ const Message = require('./models/Message')
 const jwt = require('jsonwebtoken')
 const cookieParser = require('cookie-parser')
 const cors = require('cors')
-const bcrypt = require('bcrypt')
+const bcrypt = require('bcryptjs')
 const ws = require('ws')
 dotenv.config()
 
