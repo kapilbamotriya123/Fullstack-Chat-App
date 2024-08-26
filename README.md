@@ -19,3 +19,4 @@ Optimizing performance for a smooth experience
 
 Check out the live app: 
 ## https://fullstack-chat-app-x7f2.onrender.com/
+Please note that  app is hosted on a free server, which may cause occasional delays or idle periods of up to 50 seconds
